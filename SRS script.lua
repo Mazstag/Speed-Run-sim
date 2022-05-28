@@ -1,5 +1,3 @@
---BROUGHT TO YOU BY RSCRIPTS.NET!--
-
 local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vep1032/VepStuff/main/VL"))()
 
 local s = VLib:Window("BaconLord", "Speed Run Simulator", "S")
